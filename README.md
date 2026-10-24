@@ -59,126 +59,93 @@
 
   <!-- ════════ FEATURED PROJECTS ════════ -->
 
-  <div align="center">
-    <br/>
-    <samp>── &nbsp; FEATURED PROJECTS &nbsp; ──</samp>
-    <br/><br/>
-  </div>
+## 🚀 Featured Projects
 
-  <table align="center" width="100%">
-  <tr>
-  <td width="50%" valign="top" align="center">
+<table>
+<tr>
 
-  <h3>🌟 Navaneeth-Portfolio</h3>
-  <p><samp>Production portfolio with AI assistant & interactive terminal</samp></p>
+<td width="50%" valign="top">
 
-  <p>
-    <img src="https://img.shields.io/badge/React_19-0a0e17?style=flat-square&logo=react&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/Vite-0a0e17?style=flat-square&logo=vite&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-0a0e17?style=flat-square&logo=tailwindcss&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/Framer_Motion-0a0e17?style=flat-square&logo=framer&logoColor=00ff88"/>
-  </p>
+### 🌟 Navaneeth Portfolio
 
-```
-✨ Interactive NAV-OS    → Terminal with commands (whoami, skills, projects)
-🤖 RAG AI Chat          → Context-aware assistant for professional queries
-🎮 Interactive CLI       → Command-based navigation & exploration
-📐 Physics-based Animations → Smooth transitions & neon effects
-🔎 SEO Optimized        → schema.org metadata & OpenGraph
-🎨 Cyberpunk Design     → Glassmorphism & responsive layout
-```
+**AI-Powered Portfolio & Interactive Terminal**
 
-  <p>
-    <a href="https://github.com/Navaneeth187/Navaneeth-Portfolio"><img src="https://img.shields.io/badge/Source_Code-0a0e17?style=flat-square&logo=github&logoColor=00ff88"/></a>&nbsp;
-    <a href="https://navaneethp1407.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-0a0e17?style=flat-square&logo=netlify&logoColor=00ff88"/></a>
-  </p>
+A production portfolio featuring an interactive terminal, a context-aware RAG assistant, and a modern cyberpunk-inspired interface.
 
-  </td>
-  <td width="50%" valign="top" align="center">
+`React 19` `Vite` `Tailwind CSS` `Framer Motion` `RAG`
 
-  <h3>🧠 Lumina AI - Mental Wellness</h3>
-  <p><samp>AI-powered wellness platform with CBT & mood tracking</samp></p>
+<br>
 
-  <p>
-    <img src="https://img.shields.io/badge/React_19-0a0e17?style=flat-square&logo=react&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/Node.js-0a0e17?style=flat-square&logo=nodedotjs&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/Google_Gemini-0a0e17?style=flat-square&logo=googlegemini&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/SQLite-0a0e17?style=flat-square&logo=sqlite&logoColor=00ff88"/>
-  </p>
+<a href="https://github.com/Navaneeth187/Navaneeth-Portfolio">
+<img src="https://img.shields.io/badge/EXPLORE-FF4D6D?style=for-the-badge&logo=github&logoColor=white" alt="Explore source code" />
+</a>
+&nbsp;
+<a href="https://navaneethp1407.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-181717?style=for-the-badge&logo=netlify&logoColor=white" alt="Live demo" />
+</a>
 
-```
-🧠 CBT Techniques        → Cognitive distortion detection & reframing
-📊 Mood Analytics        → Emotional pattern recognition dashboard
-💪 Guided Exercises      → Breathing, grounding, mindfulness sessions
-🔒 Privacy First         → 100% local-only data storage, user-controlled
-⚡ Real-time AI          → Conversational responses via Google Gemini
-📈 Wellness Metrics      → Stress levels & progress tracking
-🎨 Calming UI            → Motion-based interactions & smooth transitions
-```
+</td>
 
-  <p>
-    <a href="https://github.com/Navaneeth187/LumiaAI"><img src="https://img.shields.io/badge/Source_Code-0a0e17?style=flat-square&logo=github&logoColor=00ff88"/></a>
-  </p>
+<td width="50%" valign="top">
 
-  </td>
-  </tr>
-  <tr>
-  <td width="50%" valign="top" align="center">
+### 🧠 Lumina AI
 
-  <h3>🎯 Smart Complaint Management</h3>
-  <p><samp>AI automation for college facility complaint triage</samp></p>
+**AI-Powered Mental Wellness Platform**
 
-  <p>
-    <img src="https://img.shields.io/badge/n8n-0a0e17?style=flat-square&logo=n8n&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/Google_Gemini_Vision-0a0e17?style=flat-square&logo=googlegemini&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-0a0e17?style=flat-square&logo=postgresql&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/Telegram-0a0e17?style=flat-square&logo=telegram&logoColor=00ff88"/>
-  </p>
+A privacy-first wellness application combining CBT techniques, mood analytics, guided mindfulness exercises, and AI-powered conversational support.
 
-```
-🔍 Image Analysis        → Infrastructure damage detection (cracks, flooding)
-📂 Auto-Categorization   → ML-based complaint classification & tagging
-⚠️ Severity Detection    → Intelligent escalation (Critical, High, Medium, Low)
-📬 Multi-channel Input   → Telegram, Email, Web forms integration
-🎯 Smart Routing        → Auto-route to relevant departments
-📊 Tracking Dashboard    → Real-time status, SLA monitoring, metrics
-🔄 n8n Workflows        → Multi-step conditional automation pipelines
-📋 Audit Trail          → PostgreSQL structured logs for compliance
-```
+`React 19` `Node.js` `Google Gemini` `SQLite`
 
-  <p>
-    <a href="https://github.com/Navaneeth187/Projects_N8n-"><img src="https://img.shields.io/badge/Source_Code-0a0e17?style=flat-square&logo=github&logoColor=00ff88"/></a>
-  </p>
+<br>
 
-  </td>
-  <td width="50%" valign="top" align="center">
+<a href="https://github.com/Navaneeth187/LumiaAI">
+<img src="https://img.shields.io/badge/EXPLORE-FF4D6D?style=for-the-badge&logo=github&logoColor=white" alt="Explore source code" />
+</a>
 
-  <h3>🚀 Other Notable Work</h3>
-  <p><samp>Open-source & experimental projects</samp></p>
+</td>
 
-  <p>
-    <img src="https://img.shields.io/badge/Full-Stack-0a0e17?style=flat-square&logo=github&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/AI/ML-0a0e17?style=flat-square&logo=python&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/Automation-0a0e17?style=flat-square&logo=n8n&logoColor=00ff88"/>
-    <img src="https://img.shields.io/badge/Learning-0a0e17?style=flat-square&logo=github&logoColor=00ff88"/>
-  </p>
+</tr>
 
-```
-🎨 Portfolio Iterations  → Design explorations & earlier versions
-🤖 System Design Experiments → Scalable architecture implementations
-📚 Educational Projects  → Learning-focused full-stack applications
-🔗 Open-Source Contributions → Community projects & collaborations
-🛠️ Automation Experiments → Workflow & orchestration prototypes
-💡 Prototypes & MVPs     → Various proof-of-concepts & experiments
-```
+<tr>
 
-  <p>
-    <a href="https://github.com/Navaneeth187"><img src="https://img.shields.io/badge/All_Repositories-0a0e17?style=flat-square&logo=github&logoColor=00ff88"/></a>
-  </p>
+<td width="50%" valign="top">
 
-  </td>
-  </tr>
-  </table>
+### 🎯 Smart Complaint Management
+
+**AI-Powered Complaint Triage & Automation**
+
+An intelligent complaint management workflow that analyzes infrastructure images, classifies complaints, identifies severity, and routes issues to relevant departments.
+
+`n8n` `Gemini Vision` `PostgreSQL` `Telegram`
+
+<br>
+
+<a href="https://github.com/Navaneeth187/Projects_N8n-">
+<img src="https://img.shields.io/badge/EXPLORE-FF4D6D?style=for-the-badge&logo=github&logoColor=white" alt="Explore source code" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Automation & Experiments
+
+**Full-Stack Development & AI Exploration**
+
+A collection of additional projects, system design experiments, workflow automation prototypes, educational applications, and open-source work.
+
+`Full-Stack` `AI/ML` `Automation` `Prototyping`
+
+<br>
+
+<a href="https://github.com/Navaneeth187">
+<img src="https://img.shields.io/badge/ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="All GitHub repositories" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
   <br/>
 
@@ -211,21 +178,37 @@
 
   <!-- ════════ GITHUB ANALYTICS ════════ -->
 
-  <div align="center">
-    <br/>
-    <samp>── &nbsp; GITHUB ANALYTICS &nbsp; ──</samp>
-    <br/><br/>
-  </div>
+## 📊 GitHub Analytics
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth187&show_icons=true&hide_border=true&bg_color=0a0e17&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88&count_private=true&include_all_commits=true" height="180"/>
-    &nbsp;&nbsp;
-    <img src="https://streak-stats.demolab.com/?user=Navaneeth187&hide_border=true&background=0a0e17&stroke=1a2332&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="180"/>
-  </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navaneeth187&theme=github_dark" width="95%" alt="GitHub profile summary" />
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth187&layout=compact&hide_border=true&bg_color=0a0e17&title_color=00ff88&text_color=c9d1d9&langs_count=8" height="180"/>
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth187&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=FF4D6D&text_color=c9d1d9&include_all_commits=true" height="180" alt="GitHub statistics" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Navaneeth187&hide_border=true&background=0d1117&stroke=30363d&ring=A78BFA&fire=FF4D6D&currStreakLabel=A78BFA&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="180" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth187&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="180" alt="Most-used programming languages" />
+</p>
+
+<div align="center">
+
+### `Learn → Build → Experiment → Improve`
+
+<sub>AI Engineering • Full-Stack Development • Intelligent Automation</sub>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Navaneeth187&style=for-the-badge&color=A78BFA" alt="Profile views" />
+
+<br><br>
+
+<i>Always learning. Always building.</i>
+
+</div>
 
   <br/>
 
